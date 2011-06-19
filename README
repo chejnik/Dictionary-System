@@ -1,0 +1,46 @@
+DS information
+
+Requirements:
+PHP version 4.3.2 or newer, 15MB server disk space, MySQL database
+Web browser - Firefox, Opera, Chrome
+
+
+Features:
+
+* User-friendly: do not require advanced computer literacy skills
+* Sense numbering
+* Homonym numbering
+* Automatic cross-reference tracking and updating of homonym and sense numbers
+* Immediate WYSIWYG article preview
+* Immediate preview of cross-referenced articles and cross-referencing articles
+* Full Unicode support - supports all world's languages
+* Fully customisable and highly flexible (create any fields and structures relevant to your dictionary)
+* Network and multi-user (team) lexicography support (supports MySQL The multi-user and network support allow a team of users to work simultaneously on a single dictionary stored on a central database server.
+* Fast full-dictionary text search
+* Forum for user support
+* Login, logout, registration
+* Admin registration, login, logout
+* Hierarchical system - admin and users, responsibility, management
+* User information, changing, user preferences, viewing other users
+* Installation procedure - 13 steps, check php requiremens
+* Filter: define criteria for viewing/exporting a subset of the dictionary based on specific characteristics
+* Dictionary correction feature: Integrate work done by different team members
+* Easily enter any phonetic symbol (IPA ; phonetic extensions)
+* Management Tools: Assign tasks to users and monitor user or team progress
+* User statistics / monitoring This tool assists managers in tracking/charting the progress of a dictionary or terminology project as a whole, or of individual members of a team; for example, you can display a graph of the last 14 days showing the number of modifications made, either in total or by particular users. The time range can be selected.
+* Saving data - backing up the database - both manually or by CRON
+* Project Export to:
+=> suggested export to XML, XDXF (dictionary XML format used by StarDict), PDF, LaTex.
+* User export to PDF (just print my words)
+* Import from: Wordlists, CSV (may also import corpus frequency counts), XML or word frequency counts from corpus query software !!! interesting => import from corpus
+* Various features for generating 'multiple dictionaries from one database'
+* Customisable styles (font, colour etc.) for every field in the dictionary using css style ( required knowledge of css => direct preview of change - wysiwyg
+* Multimedia: Allows sound (e.g. pronunciation) recordings to be linked to any field
+* Multimedia: Allows images to be added to entries
+* Place dictionaries online
+* User guide and Manual
+* User guide also in Pdf => printing.
+* Demo application for testing
+* Schema for Document of conventions => user can share basic approach to various fields in the dictionary.
+* Predefined lists of empty, uncorrected, self-checked, corrected/checked, ready to export headwords (thought it is possible to define such search criteria in advanced search)
+* Translations: Czech, English, Icelandic, Polish, German, Catalonian
